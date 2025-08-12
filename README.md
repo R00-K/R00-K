@@ -34,8 +34,8 @@ Focused on *detection engineering*, *malware analysis*, and *defensive tooling* 
 
 ## 📫 Get in Touch
 - **GitHub:** [github.com/R00-K](https://github.com/R00-K)  
-- **LinkedIn:** *(Add your LinkedIn link here)*  
-- **Email:** *(Add your email here — use a professional address)*  
+- **LinkedIn:** *https://www.linkedin.com/in/godwin-jose/*  
+- **Email:** *itsmegodwin05@gmail.com*  
 
 ---
 
