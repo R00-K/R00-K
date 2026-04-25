@@ -1,45 +1,42 @@
-# 👋 Hi, I'm R00-K
+👋 Hi, I'm R00-K
 
-💻 **Windows Kernel & Security Researcher**  
-Exploring the depths of operating system internals, firmware, and advanced security techniques.  
-Focused on *detection engineering*, *malware analysis*, and *defensive tooling* — all in a safe, controlled lab environment.
+💻 Malware Researcher & Detection Engineer (Windows Internals)
+Focused on analyzing real-world malware techniques, reverse engineering complex binaries, and building behavior-based detection systems.
+Experienced in memory injection analysis, C2 behavior, and low-level Windows internals — all in controlled research environments.
 
----
+🔍 What I Do
+Malware Analysis: Reverse engineering Windows & Android malware, studying injection, persistence, and evasion techniques
+Detection Engineering: Building behavior-based detection systems (EDR concepts, memory analysis, API correlation)
+Windows Internals: Process/memory management, syscalls, injection techniques, execution flow analysis
+Threat Simulation: Developing PoC implants and C2 models to replicate real-world adversarial behavior
+Reverse Engineering: Using IDA Pro, Ghidra, x64dbg, WinDbg for deep binary analysis
+📂 Featured Projects
+Spectr EDR
+ – Behavior-based EDR prototype detecting process injection, RWX memory, and API-based attack patterns
+Cobalt Strike Beacon Analysis
+ – Reverse engineering of Beacon loaders, C2 behavior, and evasion techniques
+Android Malware Analysis
+ – Infostealer analysis covering obfuscation, dynamic loading, and data exfiltration
+Custom Malware & C2 Research
+ – Defensive simulation of adversarial techniques including injection, persistence, and beaconing
+Windows Memory Research
+ – Study of in-memory evasion techniques and detection strategies
+🛠️ Toolchain & Skills
 
-## 🔍 What I Do
-- **Windows Internals**: Process/memory management, IRQLs, SSDT, and driver model
-- **Kernel Development**: Writing and debugging kernel-mode drivers in C/C++
-- **Reverse Engineering**: Using IDA Pro, Ghidra, WinDbg, Volatility
-- **Firmware & Boot Research**: UEFI internals, boot process interception, Secure Boot analysis
-- **Defensive Security**: Memory artifact detection, evasion technique research, and mitigation strategies
+Languages: C, C++, Python, Assembly (x86/x64)
+Tools: IDA Pro, Ghidra, x64dbg, WinDbg, Frida, Wireshark, Volatility
+Domains: Malware analysis, detection engineering, Windows internals, memory forensics, reverse engineering
 
----
+🔬 Research Focus
+Process injection & shellcode execution
+Command-and-control (C2) behavior analysis
+Memory artifact detection
+Evasion technique analysis & mitigation
+Behavior-based detection systems (EDR concepts)
+📫 Get in Touch
+GitHub: https://github.com/R00-K
+LinkedIn: https://www.linkedin.com/in/godwin-jose/
+Email: itsmegodwin05@gmail.com
+🎯 Career Goals
 
-## 📂 Featured Projects
-- **[CFG Bypass Research](https://github.com/R00-K/CFG-Bypass-MSEdge)** – Analysis of control-flow integrity mechanisms and bypass techniques (sanitized PoC, educational only)
-- **[Windows Memory Research](https://github.com/R00-K/windows-memory-evasion)** – Study of in-memory evasion tactics and defensive detection scripts
-- **[StackPointer CrackMe](https://github.com/R00-K/stackpointer-crackme)** – Reverse engineering puzzle for CTF practice
-- **[Drink or DOOM](https://github.com/R00-K/Drink_or_DOOM)** – C++ reminder + firmware flag-setting fun project
-
-> ⚠️ All research is conducted in **isolated lab environments**. No production systems are targeted, and code is provided for **educational purposes only**.
-
----
-
-## 🛠️ Toolchain & Skills
-**Languages:** C, C++, Python, Assembly (x86/x64)  
-**Tools:** IDA Pro, Ghidra, WinDbg/KD, Volatility, QEMU, VMware  
-**Domains:** Kernel exploitation research, firmware analysis, malware evasion & detection, reverse engineering
-
----
-
-## 📫 Get in Touch
-- **GitHub:** [github.com/R00-K](https://github.com/R00-K)  
-- **LinkedIn:** *https://www.linkedin.com/in/godwin-jose/*  
-- **Email:** *itsmegodwin05@gmail.com*  
-
----
-
-## 🎯 Career Goals
-Seeking a role in **Windows kernel development**, **malware analysis**, or **security research** where I can combine low-level engineering with practical defensive solutions.
-
----
+Seeking roles in malware research, threat intelligence, or detection engineering, where I can combine reverse engineering with real-world defensive security solutions.
